@@ -14,9 +14,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science graduate, **NUST SEECS**, Islamabad, Pakistan
-- ⚙️ Backend developer on the **Webaurix** team
-- 🚀 Currently building **Exofe**, a WhatsApp AI order bot for small businesses (FastAPI, PostgreSQL, LLMs)
+- 🎓 Computer Science graduate, Pakistan
+- ⚙️ Backend developer
 - 🧠 Interested in LLM applications, RAG, agents, and MLOps
 - 📫 Open to AI engineering and backend roles
 
