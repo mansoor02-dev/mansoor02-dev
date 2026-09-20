@@ -1,10 +1,68 @@
 <h1 align="center">Hi 👋, I'm Mansoor Abid</h1>
-<h3 align="center">An AI Engineer and Software Engineer</h3>
+<h3 align="center">AI Engineer & Backend Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mansoor-abid-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansoor-abid-/" height="30" width="40" /></a>
+<p align="center">
+  I build production-minded backend systems and ML pipelines, from data ingestion to model serving.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansoor-abid-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science graduate, **NUST SEECS**, Islamabad, Pakistan
+- ⚙️ Backend developer on the **Webaurix** team
+- 🚀 Currently building **Exofe**, a WhatsApp AI order bot for small businesses (FastAPI, PostgreSQL, LLMs)
+- 🧠 Interested in LLM applications, RAG, agents, and MLOps
+- 📫 Open to AI engineering and backend roles
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi,nodejs,express,react,postgres,mysql,mongodb,supabase,docker,kubernetes,aws,git,github,pytorch,tensorflow,sklearn,pandas,postman" alt="Tech stack"/>
+</p>
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python, JavaScript, SQL |
+| **Backend** | FastAPI, Node.js, Express, SQLAlchemy, Pydantic |
+| **ML / AI** | PyTorch, TensorFlow, scikit-learn, XGBoost, pandas, LLM APIs |
+| **Data & MLOps** | PostgreSQL, Supabase, Apache Airflow, dbt, Hopsworks |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, AWS |
+
+---
+
+## 📌 Featured Projects
+
+### 🌫️ [Pearls AQI Predictor](https://github.com/mansoor02-dev/pearls-aqi-predictor)
+End-to-end MLOps system that forecasts European AQI for Lahore up to 3 days ahead. Delta-target modeling, walk-forward validation, and tag-based model promotion in a feature store.
+`Python` `XGBoost` `Hopsworks` `FastAPI` `Streamlit` `GitHub Actions`
+
+### 🌦️ [Weather ELT Pipeline](https://github.com/mansoor02-dev/weather-elt-pipeline)
+Real-time ELT pipeline: OpenWeatherMap → PostgreSQL (Supabase) → dbt transformations, orchestrated with Airflow and archived to AWS S3.
+`Python` `Airflow` `dbt` `PostgreSQL` `AWS S3`
+
+### 🤖 [AIcruit](https://github.com/mansoor02-dev/AICRUIT_REPO_NAME)
+Final year project: an AI-powered technical recruitment platform built on a microservice architecture, developed with a NUST team.
+`Python` `FastAPI` `Microservices` `LLMs`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mansoor02-dev&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoor02-dev&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, always shipping.</i>
+</p>
